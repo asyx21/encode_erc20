@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import getPriceRounded from '../utils';
+import { getPriceRounded } from '../utils';
 import withWallet from './walletHOC';
 import WalletUIeasy from './walletUIeasy';
 import WalletUIpro from './walletUIpro';

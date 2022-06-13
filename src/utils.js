@@ -23,5 +23,3 @@ export const getPriceRounded = (price) => {
 export function getImageUrl(name, ext = 'png') {
   return new URL(`./assets/${name}.${ext}`, import.meta.url).href
 }
-
-export default getImageUrl;

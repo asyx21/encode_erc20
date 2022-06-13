@@ -129,7 +129,7 @@ function WalletUIeasy({
                 </span>
               </div>
               <div className="col-6 col-md-1 mt-2">Balance</div>
-              <div className="col-6 col-md-2 mt-2">
+              <div className="col-6 col-md-2 mt-2" style={{ maxWidth: '150px', overflowY: 'auto' }}>
                 <span className="badge rounded-pill look-main">
                   <h6 className="fw-bold" style={{ margin: 'auto' }}>
                     {Number.isNaN(balance) ? '?' : `${getPriceRounded(balance)} ${netParams.nativeCurrency.symbol}`}
