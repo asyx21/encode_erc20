@@ -1,5 +1,5 @@
 {
-  "contractName": "BUSD",
+  "contractName": "ENCODE-CLUB-TOKEN",
   "abi": [
     {
       "anonymous": false,
@@ -426,13 +426,9 @@
     }
   ],
   "networks": {
-    "90": {
-      "address": "0xCF0A3560D0d794094afF359DA0E7Cd7AcEf61C31",
-      "transactionHash": "0x6013dd5ea80979c34b2af072a047bbcad3c64ac46d3e603331c23df57ec388c5"
-    },
     "80001": {
-      "address": "0x15A40d37e6f8A478DdE2cB18c83280D472B2fC35",
-      "transactionHash": "0x42b975256af426d6dc691d37dd95821d3120f4db38e52239f40627c56761f7e3"
+      "address": "0x33caf471da39554b9bf2c4108437ef40d0688d62",
+      "transactionHash": "0x8f90cd5d164456d65ed9ec9467b2fd7b144baabdfb3ca53911f4f53b20a6342b"
     }
   }
 }
