@@ -2,7 +2,7 @@
   "name": "encode_erc20",
   "Description": "ERC20 Explorer Dapp",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
