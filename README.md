@@ -1,6 +1,8 @@
 # ERC-20 simple Dapp
 
-This project presents a frontend UI to interract with ERC-20 token Ethereum smart-contract representing an infinite supply BUSD-like token available on [polygon testnet mumbai chain](https://mumbai.polygonscan.com/address/0x15A40d37e6f8A478DdE2cB18c83280D472B2fC35#code)
+This project presents a frontend UI to interract with ERC-20 token Ethereum smart-contract representing an infinite supply BUSD-like token available on [polygon testnet mumbai chain](https://mumbai.polygonscan.com/address/0x33CaF471Da39554B9BF2c4108437EF40D0688d62#code)  
+
+Find demo here: [https://encodehackathon2022erc20.netlify.app/](https://encodehackathon2022erc20.netlify.app/)  
 
 ## Setup
 
